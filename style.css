@@ -1,0 +1,33 @@
+.row {
+    display: flex;
+}
+
+.col {
+    background-color: #488570;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    flex:1;
+}
+
+.col-2 {
+    background-color: #488570;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    flex: 2
+}
+
+.col-3 {
+    background-color: #488570;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    flex:3;
+}
